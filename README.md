@@ -11,7 +11,7 @@
 
 - 사용한 데이터 : kaggle의 hotel booking demand 데이터셋을 활용. (https://www.kaggle.com/jessemostipak/hotel-booking-demand)
   - 데이터 설명: 호텔 예약 수요에 관련된 특성이 들어있으며, is_canceled column을 타겟으로 예측모델 모델링이나 데이터분석이 가능.
-  - 사용 모델: 분류모델 중 XGBoost 사용.
+  - 사용 모델: 분류모델 중 XGBoost 사용.(https://xgboost.readthedocs.io/en/stable/)
 ---
 ### 결론
 - 포스트 코로나 시기 관광산업 대한 소비욕구가 상승할 것으로 예상.
